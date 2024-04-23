@@ -41,5 +41,4 @@ To run this project, you need:
 
 
 ## Results
-
-Provide details of the model's performance metrics such as accuracy score on the test set.
+Accuracy of 80% has been generated
